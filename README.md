@@ -4,7 +4,7 @@
 
 **2018 CityU Data Mining Project** 
 
-- Identify those user who would probably continue pay for music service in March.
+- Identify those user who would likely continue pay for music service in March within 30 they end up music service.
 
 Project Organization
 ------------
