@@ -1,7 +1,7 @@
 MS6711_Project
 ==============================
 
-Identify those user who would probably continue pay for music service in March.
+2018 CityU Data Mining Project - Identify those user who would probably continue pay for music service in March.
 
 Project Organization
 ------------
