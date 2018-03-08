@@ -1,4 +1,4 @@
-MS6711_Project
+MS6711_Project - By Alexander LIU
 ==============================
 
 2018 CityU Data Mining Project - Identify those user who would probably continue pay for music service in March.
