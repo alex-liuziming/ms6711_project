@@ -1,4 +1,4 @@
-# MS6711_Project
+# MS6711_Project - By Alexander LIU
 
 ==============================
 
